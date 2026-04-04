@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Ibraheem Taha](https://ibraheemtaha.github.io/)
+# Hi there! 👋 I'm [Ibraheem Taha](https://www.ibraheemtaha.com)
 
 ## 🎓 About Me
 - 🔬 Ph.D. Candidate in **Data Engineering** at [Aalborg University](https://www.aau.dk/) & [University of Athens](https://en.uoa.gr/)
@@ -13,6 +13,8 @@ AI/ML Engineer and researcher specializing in **data-intensive LLM applications*
 - ⚡ **80× faster** ML pipelines
 - 📉 **18× smaller** vector indexes
 - 🎯 Production-grade retrieval systems for LLM applications
+- 🌐 **Website**: [ibraheemtaha.com](https://ibraheemtaha.com)
+
 
 ## 🔧 Technical Focus
 - **Data Engineering**: End-to-end data platforms, pipelines (batch/streaming), lakehouses, observability
