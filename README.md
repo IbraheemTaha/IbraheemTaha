@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm [Ibraheem Taha](https://www.ibraheemtaha.com)
 
 ## 🎓 About Me
-- 🔬 Ph.D. Candidate in **Data Engineering** at [Aalborg University](https://www.aau.dk/) & [University of Athens](https://en.uoa.gr/)
+- 🔬 Ph.D. Candidate in **AI & Data Engineering** at [Aalborg University](https://www.aau.dk/) & [University of Athens](https://en.uoa.gr/)
 - 🏛️ Researcher at [Aalborg University](https://www.aau.dk/) & [ATHENA Research Center](https://www.athenarc.gr/en/home)
 - 🎖️ **3× Erasmus Mundus Scholar** & **Marie Skłodowska-Curie Fellow** ([DEDS](https://deds.ulb.ac.be/))
 
